@@ -717,11 +717,15 @@ form .signup-link a:hover {
 .slider .slide .info h2 {
   font-size: 2em;
   font-weight: 800;
+  color: white;
+  text-shadow: 2px 2px black;
 }
 
 .slider .slide .info p {
   font-size: 1em;
-  font-weight: 400;
+  font-weight: 600;
+  color: white;
+  text-shadow: 2px 2px black;
 }
 
 .navigation {
