@@ -385,9 +385,11 @@ footer {
   align-items: center;
   text-align: center;
   font-size: 24px;
+  color: white;
 }
 
 footer p {
+  font-family: 'Merriweather', serif;
   border-top: 2px solid black;
   width: 100%;
 }
