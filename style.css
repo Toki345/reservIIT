@@ -377,21 +377,14 @@ span {
 }
 
 /* footer */
-footer {
+#footer-bottom {
   background-image: linear-gradient(to right, #e91e43, #931d23);
-  margin-top: 150px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  font-size: 24px;
-  color: white;
-}
-
-footer p {
-  font-family: 'Merriweather', serif;
-  border-top: 2px solid black;
   width: 100%;
+  height: 50px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 /* img card */
