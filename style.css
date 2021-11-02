@@ -373,6 +373,7 @@ span {
 
 /* footer */
 footer {
+  background-image: linear-gradient(to right, #e91e43, #931d23);
   margin-top: 150px;
   display: flex;
   justify-content: center;
